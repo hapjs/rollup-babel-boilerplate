@@ -1,6 +1,8 @@
 # rollup-babel-boilerplate
 
-通过 rollup 和 babel，让你可以利用 es6 的强大特性和 npm 上的丰富资源，快速地开发出可以独立使用的组件。
+这是一个脚手架项目，
+
+通过 rollup 和 babel，你可以充分利用 es6 的强大特性和 npm 的丰富资源，快速地开发出自己组件或者库。
 
 ## 开发环境
 
