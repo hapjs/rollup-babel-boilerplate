@@ -6,8 +6,8 @@
 
 1. 下载源代码，`git clone https://github.com/hapjs/rollup-babel-boilerplate.git`
 2. 进入目录，`cd rollup-babel-boilerplate`
-2. 安装依赖库，`npm i`
-3. 编译代码，`npm run build`
+3. 安装依赖库，`npm i`
+4. 编译代码，`npm run build`
 
 ## 问题反馈
 
