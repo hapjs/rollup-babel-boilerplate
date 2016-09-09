@@ -1,0 +1,29 @@
+{
+  "name": "rollup-babel-boilerplate",
+  "version": "0.0.1",
+  "description": "通过 rollup 和 babel，让你可以利用 es6 的强大特性和 npm 上的丰富资源，快速地开发出可以独立使用的组件。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hapjs/rollup-babel-boilerplate.git"
+  },
+  "keywords": [
+    "rollup",
+    "babel"
+  ],
+  "author": "mailhap@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hapjs/rollup-babel-boilerplate/issues"
+  },
+  "homepage": "https://github.com/hapjs/rollup-babel-boilerplate#readme",
+  "devDependencies": {
+    "babel-plugin-external-helpers": "^6.8.0",
+    "babel-preset-es2015": "^6.14.0",
+    "rollup": "^0.34.13",
+    "rollup-plugin-babel": "^2.6.1"
+  }
+}
