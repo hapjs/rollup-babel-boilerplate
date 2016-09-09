@@ -4,7 +4,8 @@
   "description": "通过 rollup 和 babel，让你可以利用 es6 的强大特性和 npm 上的丰富资源，快速地开发出可以独立使用的组件。",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build"
   },
   "repository": {
     "type": "git",
